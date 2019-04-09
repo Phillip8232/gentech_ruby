@@ -30,7 +30,7 @@
 # def greet(name)
 #     puts "hello #{name}"
 # end
-
+puts "block"
 
 # greet(name)
 
